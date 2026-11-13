@@ -1,0 +1,19 @@
+# Dart 与 Flutter 构建产物
+.dart_tool/
+build/
+.packages
+pubspec.lock
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-plugins-versions
+
+# IDE 与系统文件
+.idea/
+.vscode/
+*.iml
+.DS_Store
+
+# 其它常见产物
+.metadata
+*.log
+coverage/
